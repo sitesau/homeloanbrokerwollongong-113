@@ -1,0 +1,22 @@
+{
+  "wheel_id": 865,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerwollongong-113",
+  "project": "mortgage-brokers-wollongong-how-to-choose-7c97c5f35e37dca266bbd",
+  "parent_t1_ref": "homeloanbrokerwollongong-156",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokerwollongong.com.au",
+  "primary_kw": "mortgage brokers wollongong how to choose",
+  "intended_url": "http://mortgage-brokers-wollongong-how-to-choose-7c97c5f35e37dca266bbd.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "046a321072034f24",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/homeloanbrokerwollongong-156/",
+      "anchor": "mortgage brokers wollongong cost guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
